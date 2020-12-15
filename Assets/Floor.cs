@@ -26,8 +26,6 @@ public class Floor : GazableObject
 
             // Set the position of the furniture
             placedFurniture.transform.position = hitInfo.point;
-
-
         }
 
     }
